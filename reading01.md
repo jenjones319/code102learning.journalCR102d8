@@ -5,9 +5,9 @@
 1. Two Questions To Ask Myself Each Day
 * What was the best part of the day?
 * What went wrong, and how can I make sure it doesn’t happen again?
-2. When I'm Feeling Avoidant or Defeated
+2. When I'm Feeling Avoidant Or Defeated
 * Take a step back
 * Consider the growth mindset
 * Reapproach the problem from another angle
-
-[Growth Mindset Reference](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+3. If I Need A Quick Reread On Growth Mindset
+* [Growth Mindset Reference](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
