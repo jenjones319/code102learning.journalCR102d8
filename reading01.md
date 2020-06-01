@@ -9,3 +9,5 @@
 * Take a step back
 * Consider the growth mindset
 * Reapproach the problem from another angle
+
+[Growth Mindset Reference](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
