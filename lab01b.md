@@ -1,4 +1,4 @@
-# Reading Assignment from Day 1
+# Lab B Assignment from Day 1
 
 **Things To Remember About Growth Mindset**
 
