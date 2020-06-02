@@ -16,3 +16,4 @@ About Git
   1. Working Directory: The actual files reside here.
   2. Index: The area used for staging
   3. Head: Points to the most recent commit  
+* Add -> Push -> Commit are the steps to make Git revisions.
