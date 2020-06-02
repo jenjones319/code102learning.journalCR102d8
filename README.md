@@ -7,4 +7,4 @@
 
 [Reading 2 from Day 1](reading02.md)
 
-[Reading 3 from Day 2]{reading03.md)
+[Reading 3 from Day 2](reading03.md)
