@@ -6,3 +6,5 @@
 [Lab B from Day 1](labo1b.md)
 
 [Reading 2 from Day 1](reading02.md)
+
+[Reading 3 from Day 2]{reading03.md)
