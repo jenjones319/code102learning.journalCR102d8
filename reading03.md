@@ -6,6 +6,9 @@ Helpful commands to remember:
 * git config --list
 * git clone
 * git status
+* git add
+* git push
+* git commit
 
 About Git
 * Git is a Distributed Version Control System (DVCS), this means it has mirrored clones so multiple people can work from different physical locations. 
