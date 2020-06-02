@@ -1,10 +1,14 @@
 # Learning Journal for CR102d8
 ## Table of Contents
 
-[Reading 1 from Day 1](reading01.md)
+__Day 1__
 
-[Lab B from Day 1](labo1b.md)
+[Reading 1](reading01.md)
 
-[Reading 2 from Day 1](reading02.md)
+[Lab 1B](labo1b.md)
 
-[Reading 3 from Day 2](reading03.md)
+[Reading 2](reading02.md)
+
+__Day 2__
+
+[Reading 3](reading03.md)
