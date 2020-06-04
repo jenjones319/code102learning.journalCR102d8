@@ -12,3 +12,13 @@ __Day 1__
 __Day 2__
 
 [Reading 3](reading03.md)
+
+[Reading 4](reading04.md)
+
+__Day 3__
+
+[Reading 5](reading05.md)
+
+[Reading 6a](reading06a.md)
+
+[Reading 6b](reading06b.md)
