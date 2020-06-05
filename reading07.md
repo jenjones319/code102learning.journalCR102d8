@@ -8,6 +8,7 @@ __Expressions and Operators__
 * Expressions rely on operators to create a single value from one or more values.
 * The plus symbol joins strings on either side of it. 
 * A number with quote marks around it is a string. 
+
 __Functions__
 * Functions are a group of states that perform a task.
 * When you invoke a task, you are calling it.
